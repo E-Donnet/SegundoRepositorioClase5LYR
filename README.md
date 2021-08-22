@@ -11,3 +11,6 @@ Esta modificacion es hcha desde la plataforma con el fin que se observe de la te
 
 
 ESTA LINEA HA HACE PARA GITHUBDESKTOP DESDE LO LOCAL
+
+
+ESTA LINEA TIENE EL OBJETIVO DE SER DESCARGAR DESDE GITHUBDESKTOP.
