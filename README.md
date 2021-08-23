@@ -19,3 +19,5 @@ Modificacion hecha desde el nano. 7u7u7u7u7u7u7u7u7u7u7u77u7u
 Vamos ahora a hacer un cambio desde visual code. 
 
 Vamo a hacer otro cambio para reafirmar.
+
+Otro cambiado
